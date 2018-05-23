@@ -1,1 +1,2 @@
-# MAS_CollisionError
+# MASProject
+Project for Multi Agent Systems (KUL)
